@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583729276 source:d:\singlelinkedlistpakelast\main.cpp
+	<iostream>
+	"SLLLAST.h"
+
+1583729317 d:\singlelinkedlistpakelast\slllast.h
+
